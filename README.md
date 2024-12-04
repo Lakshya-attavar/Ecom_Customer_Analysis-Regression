@@ -61,7 +61,7 @@ The factors that positively impact the spending of customers are income, voucher
 <img width="600" alt="image-8" src="https://github.com/user-attachments/assets/d3cdbfca-f13b-4a38-84a8-25f7e2efff03">
 </p>
 
-### Insights:
+#### Insights:
 
 - Estimated income is statistically significantly related to the revenue (p-value<0.05) and it can be seen that an increase of 1 GBP in income increases the revenue by 0.002 GBP on average.
 - Seen voucher is significantly related to the revenue with the revenue increasing by 19.627 GBP when the voucher is seen.
@@ -72,7 +72,7 @@ The factors that positively impact the spending of customers are income, voucher
 
 From the above analysis, it can be concluded that estimated income, voucher seen and advertisement channels 2, 3 and 4 have a positive impact while advertisement channel 1, time on site and Estimated age of customer have no impact on the spending of the customer on the website.
 
-## Objective 2: Marketing Campaign recommendations
+### Objective 2: Marketing Campaign recommendations
 
 Drinks@home is looking to increase profits on the website and has three choices for the marketing campaign that are being considered.
 
