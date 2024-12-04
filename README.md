@@ -15,7 +15,7 @@ The company is organizing a marketing campaign and would like to get a better un
 
 The R code used for this analysis can be found here [[link]](https://github.com/Lakshya-attavar/Regression_Analysis_Ecommerce/blob/main/Regression_Analysis.R).
 
-The detailed analysis report can be found here [link]
+The detailed analysis report can be found here [[link]](https://github.com/Lakshya-attavar/Regression_Analysis_Ecommerce/blob/main/Regression_Analysis_Report.pdf)
 
 ## Data Structure & Initial Checks
 
