@@ -82,7 +82,7 @@ From the results of the analysis conducted it is inferred that the age of the cu
 
 2. Grant a voucher of 20 GBP off the next purchase to the customer.
 
-It is evident from the analysis and regression model summary that whether the customer has been presented with a voucher pop-up largely impacts the revenue. The revenue increases by 19.6 GBP depending on if the customer has seen the voucher. Hence providing vouchers to customers increases revenue. But in this case since the voucher amount is 20 GBP it could lead to a loss depending on the order amount.
+It is evident from the analysis and regression model summary that whether the customer has been presented with a voucher pop-up largely impacts the revenue. The revenue increases by 19.6 GBP depending on if the customer has seen the voucher. Hence providing vouchers to customers increases revenue. But in this case since the voucher amount is 20 GBP it could lead to a loss.
 
 3. Invest on influencer advertising
 
